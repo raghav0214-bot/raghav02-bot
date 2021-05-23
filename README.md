@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav02-bot&label=Profile%20views&color=0e75b6&style=flat" alt="raghav02-bot" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/raghavk49008570" target="blank"><img src="https://img.shields.io/twitter/follow/raghavk49008570?logo=twitter&style=for-the-badge" alt="raghavk49008570" /></a> </p>
+
 
 - 🔭 I’m currently working on **Enhancing My Problem Solving and Algorithm Designing skills.**
 
@@ -24,27 +24,28 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/raghav-kapoor-a81789185/](https://www.linkedin.com/in/raghav-kapoor-a81789185/)
 
-
+<p align="left"> <a href="https://twitter.com/raghavk49008570" target="blank"><img src="https://img.shields.io/twitter/follow/raghavk49008570?logo=twitter&style=for-the-badge" alt="raghavk49008570" /></a> </p>
 
 
 <div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=raghav02-bot&layout=compact&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="165"  src="https://github-readme-stats.vercel.app/api?username=raghav02-bot&layout=compact&theme=radical&count_private=true&include_all_commits=true" />
+  <BR><BR>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav02-bot&layout=compact&theme=radical" />
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav02-bot&layout=compact&theme=radical" alt="raghav02-bot" /></p>
+    <BR><BR>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav02-bot&layout=compact&theme=radical" alt="raghav02-bot" /></p>
 </div>
 
 
 ## Visitor count
 <div>
-<p align="left"> 
+<p > 
   <img src="https://profile-counter.glitch.me/raghav02-bot/count.svg" />
 </p>
 </div>
 
 
 </p>
-<BR>
-  <BR>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
