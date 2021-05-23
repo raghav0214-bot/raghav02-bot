@@ -27,6 +27,29 @@
 <a href="https://linkedin.com/in/raghav kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="raghav kapoor" height="30" width="40" /></a>
 <a href="https://instagram.com/raghav_____v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="raghav_____v" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@raghavkapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="@raghavkapoor" height="30" width="40" /></a>
+  
+  # Hi there, I am Nitesh Ranjan Singh 👋
+<a href="https://github.com/nitesh0007-edith/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=nitesh0007-edith&column=7&layout=compact&theme=gruvbox&no-frame=true"/>
+</a>
+
+---
+
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=nitesh0007-edith&layout=compact&theme=radical&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0007-edith&layout=compact&theme=radical" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0007-edith&layout=compact&theme=radical" alt="nitesh0007-edith" /></p>
+</div>
+
+
+## Visitor count
+<div>
+<p align="left"> 
+  <img src="https://profile-counter.glitch.me/nitesh0007-edith/count.svg" />
+</p>
+</div>
+
 <a href="https://www.leetcode.com/raghav kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="raghav kapoor" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/raghav kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="raghav kapoor" height="30" width="40" /></a>
 </p>
