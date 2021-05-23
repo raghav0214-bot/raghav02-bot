@@ -1,56 +1,41 @@
-Hi there 👋
+<h1 align="center">Hi 👋, I'm RAGHAV KAPOOR</h1>
+<h3 align="center">A Good Man Of A Purpose</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav02-bot&label=Profile%20views&color=0e75b6&style=flat" alt="raghav02-bot" /> </p>
 
-➕ABOUT➕
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav02-bot" alt="raghav02-bot" /></a> </p>
 
-RAGHAV KAPOOR is a focused CSE spcl: Banking,Financial Services and Insurance major(9.00GPA) and Front End Web Developer currently attending University of Petroleum and Energy Studies.Aiming to leverage proven critical thinking, problem-solving,management and development skills to meet the WEB / JAVA-APPLICATION Developer role , frequently praised as hardworking by his peers.
+<p align="left"> <a href="https://twitter.com/raghavk49008570" target="blank"><img src="https://img.shields.io/twitter/follow/raghavk49008570?logo=twitter&style=for-the-badge" alt="raghavk49008570" /></a> </p>
 
-➕WORK EXPERIENCE➕
+- 🔭 I’m currently working on **Enhancing My Problem Solving and Algorithm Designing skills.**
 
--Demonstrated History of Working in The field of Web- Development & Designing.
--Worked on 5 Front End Web projects using Advanced CSS frameworks Like Bootstrap and 
-Editing of Predesigned Templates .
--Also worked on 2 Algorithms based Programming Projects in which our sole motive was to design an algorithm which can solve some real life UseCase/Problems.
+- 🌱 I’m currently learning **Microsoft Azure.**
 
-➕COMFORTABLE TO CODE IN➕
+- 👯 I’m looking to collaborate on **Open Source Java Projects.**
 
--Java (Preferred )
+- 🤝 I’m looking for help with **an Opportunity in a Domain of Software Development.**
 
--C programming Language
+- 💬 Ask me about **Mentoring and Freelance Contracts.**
 
--C++
+- 📫 How to reach me **https://www.raghavkapoor.live**
 
--Python
+- 📄 Know about my experiences [https://www.linkedin.com/in/raghav-kapoor-a81789185/](https://www.linkedin.com/in/raghav-kapoor-a81789185/)
 
-➕OPEN TO OPPORTUNITIES➕
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/raghavk49008570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="raghavk49008570" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raghav kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="raghav kapoor" height="30" width="40" /></a>
+<a href="https://instagram.com/raghav_____v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="raghav_____v" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@raghavkapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="@raghavkapoor" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raghav kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="raghav kapoor" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/raghav kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="raghav kapoor" height="30" width="40" /></a>
+</p>
 
--Software Development Roles
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
--Web Development Roles
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav02-bot&show_icons=true&locale=en&layout=compact" alt="raghav02-bot" /></p>
 
--DataBase Roles 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghav02-bot&show_icons=true&locale=en" alt="raghav02-bot" /></p>
 
--Programming Analyst Roles 
-
-
-
-- 🔭 I’m currently Working On Enhancing My Domain Knowledge of Data Structures And Algorithms.
-- 🌱 I’m currently learning Microsoft Azure.
-- 👯 I’m looking to collaborate on Open Source Java Projects
-- 🤔 I’m looking for help with an Oppotunities in The Field of Software Development.
-- 💬 Contact me For Mentoring, Freelance Contracts. 
-
--GITHUB - https://github.com/raghav02-bot
-
--PORTFOLIO - https://www.raghavkapoor.live
-
--EMAIL -raghavkapoor021428@gmail.com
-<html>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-alarm" viewBox="0 0 16 16">
-  <path d="M8.5 5.5a.5.5 0 0 0-1 0v3.362l-1.429 2.38a.5.5 0 1 0 .858.515l1.5-2.5A.5.5 0 0 0 8.5 9V5.5z"/>
-  <path d="M6.5 0a.5.5 0 0 0 0 1H7v1.07a7.001 7.001 0 0 0-3.273 12.474l-.602.602a.5.5 0 0 0 .707.708l.746-.746A6.97 6.97 0 0 0 8 16a6.97 6.97 0 0 0 3.422-.892l.746.746a.5.5 0 0 0 .707-.708l-.601-.602A7.001 7.001 0 0 0 9 2.07V1h.5a.5.5 0 0 0 0-1h-3zm1.038 3.018a6.093 6.093 0 0 1 .924 0 6 6 0 1 1-.924 0zM0 3.5c0 .753.333 1.429.86 1.887A8.035 8.035 0 0 1 4.387 1.86 2.5 2.5 0 0 0 0 3.5zM13.5 1c-.753 0-1.429.333-1.887.86a8.035 8.035 0 0 1 3.527 3.527A2.5 2.5 0 0 0 13.5 1z"/>
-</svg>
-  </html>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav02-bot&" alt="raghav02-bot" /></p>
