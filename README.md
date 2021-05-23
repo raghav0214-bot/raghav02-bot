@@ -8,8 +8,11 @@ RAGHAV KAPOOR is a focused CSE spcl: Banking,Financial Services and Insurance ma
 ➕WORK EXPERIENCE➕
 
 -Demonstrated History of Working in The field of Web- Development & Designing.
+
 -Worked on 5 Front End Web projects using Advanced CSS frameworks Like Bootstrap and 
+
 Editing of Predesigned Templates .
+
 -Also worked on 2 Algorithms based Programming Projects in which our sole motive was to design an algorithm which can solve some real life UseCase/Problems.
 
 ➕COMFORTABLE TO CODE IN➕
